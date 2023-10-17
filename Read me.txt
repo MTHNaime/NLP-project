@@ -13,6 +13,5 @@
 -seaborn
 ==========================================================
 Datasets: Firefox, Thunderbird
-url: https://github.com/logpai/bugrepo 
 ==========================================================
 
