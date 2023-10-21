@@ -1,16 +1,18 @@
-# -- Natural Language Processing (Bug Reports Classification) --
+# Natural Language Processing (Bug Reports Classification)
 =========================================================
 
 
 ---------------------------------------------------------
----Libraries---
+##Libraries
 ---------------------------------------------------------
--Pandas
--Numpy
--Sklearn
--Spacy
--yellowbrick
--seaborn
+* Pandas
+* Numpy
+* Sklearn
+* Spacy
+* yellowbrick
+* seaborn
 ==========================================================
-Datasets: Firefox, Thunderbird
+##Datasets
+* Firefox
+* Thunderbird
 ==========================================================
